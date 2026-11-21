@@ -91,11 +91,11 @@ nav a:hover{
 .online-dot{
     width: 10px;
     height: 10px;
-    background-color: rgb(0, 255, 0);
+    background-color: rgb(0, 110, 255);
     border-radius: 50%;
 }
 #clock{
-    color: rgb(255, 255, 255);
-    font-family: monospace;
+    color: red;
+    font-family: monospacee;
     margin-left:10px;
 }
